@@ -2,8 +2,8 @@
 
 i am a machine that turns tears into code
 
-contact: @nekoeriii on discord / eri@nijika.dev
-website: https://nijika.dev
+- contact: @nekoeriii on discord / eri@nijika.dev
+- website: https://nijika.dev
 
 c# / vb / rs
 <!---
