@@ -2,7 +2,7 @@
 
 i am a machine that turns tears into code
 
-- contact: @nekoeriii on discord / eri@nijika.dev / @nekoeri:matrix.org 
+- contact: @erinichi on discord / eri@nijika.dev / @nekoeri:matrix.org 
 - website: https://nijika.dev
 
 c# / vb / rs
